@@ -1,0 +1,30 @@
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.exe
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.deps.json
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.runtimeconfig.json
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.dll
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.pdb
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.csproj.AssemblyReference.cache
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfoInputs.cache
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfo.cs
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.dll
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\refint\DZ003.dll
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.pdb
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.genruntimeconfig.cache
+D:\GeekBrains\Пакет Разработчик\Знакомство с языками программирования\DZ\DZsem002\DZ003\obj\Debug\net6.0\ref\DZ003.dll
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.exe
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.deps.json
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.runtimeconfig.json
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.dll
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\bin\Debug\net6.0\DZ003.pdb
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.csproj.AssemblyReference.cache
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfoInputs.cache
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfo.cs
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.dll
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\refint\DZ003.dll
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.pdb
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\DZ003.genruntimeconfig.cache
+D:\GeekBrains\Introduction to programming languages\DZ\DZsem002\DZ003\obj\Debug\net6.0\ref\DZ003.dll
